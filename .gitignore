@@ -27,6 +27,13 @@ npm-debug.log*
 # ── MCP client config (contains machine-specific absolute paths) ──────────
 .mcp.json
 
+# ── Environment / secrets ─────────────────────────────────────────────────
+.env
+
+# ── Screenshot / demo utility scripts (not part of submission) ────────────
+take_screenshots.py
+inspector_screenshot.py
+
 # ── IDE ───────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
